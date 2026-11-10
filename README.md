@@ -4,6 +4,11 @@
 
 # POLYMATH-ATLAS (OSA) · Documentum Imperiale
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
+</div>
+
+
 **Operational System Atlas — полный аудит, вербатим-архив и карта Lean 4 формализации**
 
 [![Lean 4](https://img.shields.io/badge/Lean-4.0-8B7535?style=for-the-badge&logoColor=C9A84C)](https://leanprover-community.github.io/)
