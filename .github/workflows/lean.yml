@@ -56,3 +56,6 @@ jobs:
           else
             echo "OK: zero `sorry` — audit standard preserved"
           fi
+
+permissions:
+  contents: read
