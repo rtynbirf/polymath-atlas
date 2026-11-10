@@ -29,7 +29,7 @@
 git init -b main
 git add -A
 git commit -m "Documentum Imperiale — initial imperial deployment"
-git remote add origin https://github.com/<ВАШ_ЛОГИН>/polymath-atlas.git
+git remote add origin https://github.com/rtynbirf/polymath-atlas.git
 git push -u origin main
 ```
 
@@ -49,7 +49,7 @@ gh repo create polymath-atlas --public --source=. --push
 Workflow `.github/workflows/pages.yml` уже настроен: архив откроется на
 
 ```
-https://<ВАШ_ЛОГИН>.github.io/polymath-atlas/
+https://rtynbirf.github.io/polymath-atlas/
 ```
 
 ## 4. Поставить имперский social preview (1 минута)
@@ -62,7 +62,7 @@ https://<ВАШ_ЛОГИН>.github.io/polymath-atlas/
 В `docs/index.html` заменить `OWNER` на свой логин:
 
 ```bash
-sed -i 's|github.com/OWNER/polymath-atlas|github.com/<ВАШ_ЛОГИН>/polymath-atlas|' docs/index.html
+sed -i 's|github.com/rtynbirf/polymath-atlas|github.com/rtynbirf/polymath-atlas|' docs/index.html
 git add docs/index.html && git commit -m "badge: repo link" && git push
 ```
 

@@ -85,7 +85,7 @@ flowchart LR
 
 ```bash
 # 1. Клонировать
-git clone https://github.com/<ВАШ_ЛОГИН>/polymath-atlas.git
+git clone https://github.com/rtynbirf/polymath-atlas.git
 cd polymath-atlas
 
 # 2. Открыть имперский архив (локально)
@@ -98,7 +98,7 @@ open archive/POLYMATH_ATLAS_ALL_SESSIONS_IMPERIAL.pdf
 
 ### Включить GitHub Pages (витрина архива)
 
-`Settings → Pages → Deploy from a branch → main / (root)` — workflow `.github/workflows/pages.yml` уже в репозитории. Архив откроется по адресу `https://<ВАШ_ЛОГИН>.github.io/polymath-atlas/`.
+`Settings → Pages → Deploy from a branch → main / (root)` — workflow `.github/workflows/pages.yml` уже в репозитории. Архив откроется по адресу `https://rtynbirf.github.io/polymath-atlas/`.
 
 ### Подключить Lean-формализацию
 
