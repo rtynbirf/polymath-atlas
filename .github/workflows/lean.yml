@@ -37,7 +37,7 @@ jobs:
             echo "No lean-toolchain/Lakefile in repo root — skipping (expected until Gestalt/ is added)"
           fi
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         if: steps.guard.outputs.run == 'true'
 
       - uses: leanprover/lean-action@v1
