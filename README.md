@@ -8,6 +8,15 @@
   <img src="banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="repo-muse.svg" width="100%" alt="Муза polymath-atlas: картина кузни ПОЛИМАТ, раунд 9" />
+  <br/>
+  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+
 
 **Operational System Atlas — полный аудит, вербатим-архив и карта Lean 4 формализации**
 
@@ -138,4 +147,11 @@ MIT — см. [LICENSE](LICENSE). Документы-источники прин
 
 «Ни одна строка не потеряна. Ни одна претензия не осталась без ответа — доказанным или честно помеченным.»
 
+</div>
+
+<!--ФОРЖ:ПОДВАЛ-->
+---
+
+<div align="center">
+  <sub>◆ картина и штандарт — ручная ковка <a href="https://github.com/rtynbirf">КУЗНИ ПОЛИМАТ</a> · ЧЕЛОВЕК=АККАУНТ=PID1 ◆</sub>
 </div>
