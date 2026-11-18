@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="assets/social-preview.png" alt="POLYMATH-ATLAS (OSA) — Documentum Imperiale" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/assets/social-preview.png" alt="POLYMATH-ATLAS (OSA) — Documentum Imperiale" width="100%">
 
 # POLYMATH-ATLAS (OSA) · Documentum Imperiale
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза polymath-atlas: мастерская ПОРТОЛАН · КАРТА, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/repo-muse.svg" width="100%" alt="Муза polymath-atlas: мастерская ПОРТОЛАН · КАРТА, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской ПОРТОЛАН · КАРТА" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/forge-divider.svg" width="62%" alt="делитель мастерской ПОРТОЛАН · КАРТА" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
