@@ -1,11 +1,7 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/assets/social-preview.png" alt="POLYMATH-ATLAS (OSA) — Documentum Imperiale" width="100%">
+<a href="https://github.com/rtynbirf/polymath-atlas"><img src="banner.png" width="100%" alt="polymath-atlas — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
 
-# POLYMATH-ATLAS (OSA) · Documentum Imperiale
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
@@ -18,13 +14,27 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы polymath-atlas №41 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 25 | 5 | 29 | 2026-11-16 | 1 |
+| 36 | 7 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/assets/social-preview.png" alt="POLYMATH-ATLAS (OSA) — Documentum Imperiale" width="100%">
+
+# POLYMATH-ATLAS (OSA) · Documentum Imperiale
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/banner.png" width="100%" alt="Штандарт polymath-atlas: обсидиан и расплавленное золото, кузня rtynbirf" />
+</div>
+
+
+
+
 
 
 
