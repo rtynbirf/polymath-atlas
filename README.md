@@ -22,6 +22,18 @@
 | 36 | 7 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
+# polymath-atlas
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/polymath-atlas"><img src="banner.png" width="100%" alt="polymath-atlas — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/rtynbirf/polymath-atlas@main/assets/social-preview.png" alt="POLYMATH-ATLAS (OSA) — Documentum Imperiale" width="100%">
